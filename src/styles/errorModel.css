@@ -70,7 +70,7 @@
   background-color: var(--app-color);
 }
 .modal-footer :last-child {
-  background-color: rgba(255, 0, 0, 0.77);
+  background-color: rgba(255, 68, 0, 0.495);
 }
 
 @keyframes activemodal {

@@ -1,5 +1,5 @@
 .form-check-label.active {
-  background-color: rgba(255, 0, 0, 0.937);
+  background-color: rgba(255, 68, 0, 0.525);
   font-weight: 600;
   user-select: none;
   letter-spacing: 0.5px;
@@ -17,14 +17,14 @@
   border-radius: 5px;
 }
 .inactive:hover {
-  background-color: rgba(255, 0, 0, 0.558);
+  background-color: rgba(255, 68, 0, 0.525);
   color: white;
   opacity: 0.95;
 }
 .form-check-label {
   padding: 10px 15px;
   font-size: 18px;
-  border: 2px solid rgb(255 0 0 / 77%);
+  border: 2px solid black;
   margin: 10px;
 }
 
