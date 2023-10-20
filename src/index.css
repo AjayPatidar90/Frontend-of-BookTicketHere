@@ -5,8 +5,9 @@
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
     --app-color : black;
-    --app-Background :white;
-    --app-Btn :white;
+    --app-Background :burlywood;
+    --app-Btn :burlywood;
+    background-color: burlywood;
   }
   
   body {
