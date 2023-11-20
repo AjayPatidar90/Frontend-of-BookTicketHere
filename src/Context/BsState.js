@@ -22,7 +22,7 @@ const BsState = (props) => {
     try {
         
         const res = await fetch(
-          "http://localhost:8080/booking",
+          "https://bookingtickethere.onrender.com/booking",
           {
             method: "POST",
             headers: {
