@@ -11,7 +11,7 @@
   border-color: -moz-linear-gradient(top, #555555, #111111);
   background-color:burlywood;
   width: 850px;
-  height:230px;
+  height:200px;
   
   
 
@@ -21,7 +21,7 @@
 .last_booking_details_header {
   position: relative;
 
-  font-size: 20px;
+  font-size: 16px;
   margin-bottom: 5px;
   color:#111111
 }
@@ -31,7 +31,7 @@
 } */
 
 .seats_header {
-  font-size: 20px;
+  font-size: 16px;
   font-weight: 500;
   /* margin-bottom: 5px; */
 }
@@ -57,14 +57,14 @@
 .slot,
 .movie {
   margin-bottom: 10px;
-  font-size: 20px;
+  font-size: 16px;
   font-weight: 500;
 }
 
 .slot span,
 .movie span {
   font-weight: 500;
-  font-size: 19px;
+  font-size: 16px;
 }
 
 
