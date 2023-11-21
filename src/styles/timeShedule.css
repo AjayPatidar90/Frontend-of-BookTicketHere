@@ -4,6 +4,7 @@
 }
 
 .TS_main_container {
+  position: relative;
   display: flex;
   margin-bottom: 20px;
   justify-content: flex-start;

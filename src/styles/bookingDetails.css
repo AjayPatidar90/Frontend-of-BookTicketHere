@@ -2,7 +2,7 @@
   position: absolute;
   display: flex;
   align-content: flex-end;
-  margin-left: 650px;
+  margin-left: 785px;
   padding: 10px 20px;
   border-radius: 5px;
   border: 2px solid  black;  
@@ -10,7 +10,7 @@
   border-color: -moz-linear-gradient(top, #555555, #111111);
   background-color:burlywood;
   width: 450px;
-  height:250px;
+  /* height:250px; */
   
   
 
