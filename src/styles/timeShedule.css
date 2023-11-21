@@ -1,10 +1,11 @@
 .TS_heading {
+  margin-top: 60px;
   width: 100%;
   font-size: 22px;
 }
 
 .TS_main_container {
-  position: relative;
+  
   display: flex;
   margin-bottom: 20px;
   justify-content: flex-start;
